@@ -1,1 +1,2 @@
-# chain
+# Usage
+Read "example.rb".
